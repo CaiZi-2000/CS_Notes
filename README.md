@@ -1,2 +1,6 @@
-# Initial page
+---
+coverY: 0
+---
+
+# 计算机科学笔记
 
