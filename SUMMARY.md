@@ -5,3 +5,4 @@
 * [计算机网络](ji-suan-ji-wang-luo.md)
 * [操作系统](cao-zuo-xi-tong.md)
 * [数据库系统](shu-ju-ku-xi-tong.md)
+* [编译原理](bian-yi-yuan-li.md)
