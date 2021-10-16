@@ -6,7 +6,7 @@
   * [应用层](computer_network/application_layer.md)
   * [传输层](computer_network/transport_layer.md)
   * [网络层](computer_network/network_layer/README.md)
-    * [IP地址表示](computer_network/network_layer/ip_address.md)
+    * [IP地址表示](computer_network/network_layer/ip_address.html.md)
   * [数据链路层](computer_network/link_layer.md)
   * [物理层](computer_network/physical_layer.md)
 * [操作系统](operating_system.md)
