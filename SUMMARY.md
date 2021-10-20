@@ -10,6 +10,7 @@
     * [IP地址分类](computer\_network/network\_layer/ip\_address\_classification.md)
     * [广播地址](computer\_network/network\_layer/broadcast\_address.md)
     * [子网寻址](computer\_network/network\_layer/subnet\_addressing.md)
+    * [子网掩码](computer\_network/network\_layer/subnet\_mask.md)
   * [数据链路层](computer\_network/link\_layer.md)
   * [物理层](computer\_network/physical\_layer.md)
 * [操作系统](operating\_system.md)
