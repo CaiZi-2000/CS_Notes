@@ -11,6 +11,7 @@
     * [广播地址](computer\_network/network\_layer/broadcast\_address.md)
     * [子网寻址](computer\_network/network\_layer/subnet\_addressing.md)
     * [子网掩码](computer\_network/network\_layer/subnet\_mask.md)
+    * [无类别域间路由(CIDR)](computer\_network/network\_layer/cidr.md)
   * [数据链路层](computer\_network/link\_layer.md)
   * [物理层](computer\_network/physical\_layer.md)
 * [操作系统](operating\_system.md)
