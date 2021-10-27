@@ -17,5 +17,6 @@
   * [数据链路层](computer\_network/link\_layer.md)
   * [物理层](computer\_network/physical\_layer.md)
 * [操作系统](operating\_system.md)
+* [计算机组成原理](principle\_of\_computer\_organization.md)
 * [数据库系统](database\_systems.md)
 * [编译原理](compilation\_principle.md)
