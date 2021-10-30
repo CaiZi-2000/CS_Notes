@@ -20,5 +20,6 @@
 * [计算机组成原理](principle\_of\_computer\_organization/README.md)
   * [计算机信息的表示](principle\_of\_computer\_organization/ji-suan-ji-xin-xi-de-biao-shi.md)
   * [数据大小以及字节存储顺序](principle\_of\_computer\_organization/shu-ju-da-xiao-yi-ji-zi-jie-cun-chu-shun-xu.md)
+  * [原码、补码、反码的表示及计算](principle\_of\_computer\_organization/yuan-ma-bu-ma-fan-ma-de-biao-shi-ji-ji-suan.md)
 * [数据库系统](database\_systems.md)
 * [编译原理](compilation\_principle.md)
