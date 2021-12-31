@@ -26,3 +26,4 @@
   * [原码、补码、反码的表示及计算](principle\_of\_computer\_organization/yuan-ma-bu-ma-fan-ma-de-biao-shi-ji-ji-suan.md)
 * [数据库系统](database\_systems.md)
 * [编译原理](compilation\_principle.md)
+* [Linux](linux.md)
