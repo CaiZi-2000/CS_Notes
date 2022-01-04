@@ -23,6 +23,7 @@
   * [操作系统的概念](operating\_system/cao-zuo-xi-tong-de-gai-nian.md)
   * [操作系统的特征](operating\_system/cao-zuo-xi-tong-de-te-zheng.md)
   * [操作系统的基本功能](operating\_system/cao-zuo-xi-tong-de-ji-ben-gong-neng.md)
+  * [操作系统的发展](operating\_system/cao-zuo-xi-tong-de-fa-zhan.md)
 * [计算机组成原理](principle\_of\_computer\_organization/README.md)
   * [计算机信息的表示](principle\_of\_computer\_organization/ji-suan-ji-xin-xi-de-biao-shi.md)
   * [数据大小以及字节存储顺序](principle\_of\_computer\_organization/shu-ju-da-xiao-yi-ji-zi-jie-cun-chu-shun-xu.md)
