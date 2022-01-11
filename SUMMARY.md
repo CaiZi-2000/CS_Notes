@@ -28,6 +28,7 @@
   * [进程的状态与转换](operating\_system/jin-cheng-de-zhuang-tai-yu-zhuan-huan.md)
   * [进程控制](operating\_system/jin-cheng-kong-zhi.md)
   * [进程的组织](operating\_system/jin-cheng-de-zu-zhi.md)
+  * [参考文献](operating\_system/can-kao-wen-xian.md)
 * [计算机组成原理](principle\_of\_computer\_organization/README.md)
   * [计算机信息的表示](principle\_of\_computer\_organization/ji-suan-ji-xin-xi-de-biao-shi.md)
   * [数据大小以及字节存储顺序](principle\_of\_computer\_organization/shu-ju-da-xiao-yi-ji-zi-jie-cun-chu-shun-xu.md)
