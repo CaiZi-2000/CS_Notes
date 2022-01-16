@@ -19,6 +19,7 @@
     * [IPv6数据报格式](computer\_network/network\_layer/ipv6-shu-ju-bao-ge-shi.md)
   * [数据链路层](computer\_network/link\_layer.md)
   * [物理层](computer\_network/physical\_layer.md)
+  * [参考文献](computer\_network/can-kao-wen-xian.md)
 * [操作系统](operating\_system/README.md)
   * [操作系统的概念](operating\_system/cao-zuo-xi-tong-de-gai-nian.md)
   * [操作系统的特征](operating\_system/cao-zuo-xi-tong-de-te-zheng.md)
