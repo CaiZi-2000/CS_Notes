@@ -38,3 +38,5 @@
 * [编译原理](compilation\_principle.md)
 * [Linux](linux/README.md)
   * [Vim](linux/vim.md)
+* [基础小教程](ji-chu-xiao-jiao-cheng/README.md)
+  * [如何重装操作系统](ji-chu-xiao-jiao-cheng/ru-he-zhong-zhuang-cao-zuo-xi-tong.md)
